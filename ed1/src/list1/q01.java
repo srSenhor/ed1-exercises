@@ -1,6 +1,6 @@
 package list1;
 
-public class q1 
+public class q01 
 {
 	private static int my_age = 19;
 	private static float my_height = 1.68f;

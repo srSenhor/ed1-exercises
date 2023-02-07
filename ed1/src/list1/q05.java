@@ -2,7 +2,7 @@ package list1;
 
 import java.util.Scanner;
 
-public class q5
+public class q05
 {
 	public static void main(String[] args)
 	{
